@@ -1,9 +1,9 @@
 github.com/IBM/sarama v1.45.1 h1:nY30XqYpqyXOXSNoe2XCgjj9jklGM1Ye94ierUb1jQ0=
 github.com/IBM/sarama v1.45.1/go.mod h1:qifDhA3VWSrQ1TjSMyxDl3nYL3oX2C83u+G6L79sq4w=
-github.com/boostgo/convert v1.0.0 h1:gRbQsnAKRS1yeUHPwVJN/0lmLtwGdvT0Eu6DWnXwSMw=
-github.com/boostgo/convert v1.0.0/go.mod h1:Ayj4flaIro53vCcGLRxGsdn4N5+zS+AI1kdTpdVoWE8=
-github.com/boostgo/errorx v1.0.0 h1:nULUv9diE6DVAuBhX7JXBTTBtXHr+hTf2L3j8edB9Tk=
-github.com/boostgo/errorx v1.0.0/go.mod h1:Pg8sOGtlSG/32ARtIGOz57/F4R5xmpwQ0S9HpVwR/aU=
+github.com/boostgo/convert v1.0.1 h1:kAjdulGgoEIEszybSMxGjZPVCqhDGET3FeS2oWaqvkU=
+github.com/boostgo/convert v1.0.1/go.mod h1:KVjvc+yiCbfbIbJpzYOVJ1VPaa2ayPcT6wwD3QggSeI=
+github.com/boostgo/errorx v1.0.1 h1:yUdd61im/odzRkv2eWHBBsPtypW7gtZpgAEbkHdL9ps=
+github.com/boostgo/errorx v1.0.1/go.mod h1:8DeXx9oMR2ieS1PCeJsfbVDIZZaua0XZJgTgU4nuUP4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
